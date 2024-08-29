@@ -14,6 +14,12 @@ This project focuses on analyzing a credit card fraud detection dataset. The pri
   - Achieved an 85% recall on the oversampled dataset.
   - Achieved a 74% precision on the oversampled dataset.
 
+## Dataset
+
+The dataset used for this analysis is available on Kaggle. You can download it from the following link:
+
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets?search=credit+card+fraud)
+
 ## Installation
 
 To replicate this analysis, ensure you have the following Python packages installed:
